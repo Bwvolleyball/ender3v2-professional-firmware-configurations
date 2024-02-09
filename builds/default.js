@@ -7,7 +7,7 @@ module.exports = {
     },
     based_on: {
         repo: "https://github.com/bwvolleyball/ender3v2-professional-firmware-configurations/",
-        path: "/BW_Ender3V2_02062024",
-        stable_branch: "main",
+        path: "BW_Ender3V2_02062024",
+        stable_branch: "main"
     }
 };
